@@ -1,0 +1,18 @@
+
+Commands available:
+
+artists
+	Description: Displays bar graph for all Top100 Artists
+  that have concerts in 2018 and their respective
+  number of events
+
+venues state=
+  Description: Displays bar graph for venues and number of
+  events played at venue for specified state abbreviation
+
+events rank=
+  Description: Maps all events for specified Billboard artist rank
+
+genre country=
+  Description: Displays pie chart showing genre distribution
+  for specified country
